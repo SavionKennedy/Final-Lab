@@ -98,6 +98,7 @@ class ToDoApp:
         self.priority_entry.delete(0, tk.END)
         self.due_date_entry.delete(0, tk.END)
 
+
 root=tk.Tk()
 app = ToDoApp(root)
 root.mainloop()
