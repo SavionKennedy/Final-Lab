@@ -21,11 +21,11 @@
 - Refresh the task list in the listbox.
 5. Update Task Display
 - Clear listbox.
-- Iterate through the list of tasks:
+- Iterate through the list of tasks.
 - Format each task into a readable string.
 - Include "Completed" for completed tasks.
 6. Clear Inputs
 - Clear the text in all inputs
 7. User Interaction
-- When the user interacts with the buttons call the corresponding methods.
+- When the user interacts with the buttons call the function
 
