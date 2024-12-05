@@ -1,9 +1,9 @@
 1.Initialize Application
 - Create a Task class with attributes: name, priority, due date, and completed.
-- Define a ToDoApp class that initializes the graphical user interface with tkinter.
--  Create input fields, buttons, and a listbox for task management.
+- Define a ToDoApp class that initializes the user interface with tkinter.
+- Create input fields, buttons, and a listbox for task management.
 2. Add a Task
-- Retrieve input values from the task name, priority, and due date fields.
+- Get input values from the task name, priority, and due date fields.
 - Check values to make sure all fields are filled
 - Create a new task object with the input.
 - Append the task to the task list.
@@ -22,7 +22,7 @@
 5. Update Task Display
 - Clear listbox.
 - Iterate through the list of tasks.
-- Format each task into a readable string.
+- Format each task into a string.
 - Include "Completed" for completed tasks.
 6. Clear Inputs
 - Clear the text in all inputs
